@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
-[![OI's github stats](https://github-readme-stats.vercel.app/api?username=CornerstoneII)](https://github.com/CornerstoneII/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CornerstoneII)](https://github.com/CornerstoneII/github-readme-stats)
+[![OI's github stats](https://github-readme-stats.vercel.app/api?username=CornerstoneII)](https://github.com/CornerstoneII/github-readme-stats)
+
 
 <!--
 **CornerstoneII/CornerstoneII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
