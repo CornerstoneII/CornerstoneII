@@ -10,7 +10,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/CornerstoneII/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CornerstoneII&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CornerstoneII&layout=compact&hide=issues" />
 </a>
 <a href="https://github.com/CornerstoneII/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CornerstoneII" />
