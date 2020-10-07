@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/CornerstoneII/HTML-CSS-Capstone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CornerstoneII&repo=HTML-CSS-Capstone&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CornerstoneII&repo=HTML-CSS-Capstone" />
 </a>
 
 <!--
