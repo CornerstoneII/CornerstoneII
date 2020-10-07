@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CornerstoneII&layout=compact" />
 </a>
 <a href="https://github.com/CornerstoneII/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CornerstoneII&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CornerstoneII&hide=issues,stars&show_icons=true" />
 </a>
 
 <a href="https://github.com/CornerstoneII/HTML-CSS-Capstone">
