@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/CornerstoneII/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CornerstoneII" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CornerstoneII" />
 </a>
 <a href="https://github.com/CornerstoneII/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CornerstoneII" />
